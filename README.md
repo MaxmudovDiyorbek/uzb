@@ -1,0 +1,2 @@
+# uzb
+Maxmudov Diyorbek
