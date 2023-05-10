@@ -1,0 +1,22 @@
+    *
+    {
+        margin:0;
+        padding: auto;
+    }
+
+    header .tepa
+    {
+        text-align: center;
+        font-family: Algerian;
+        padding: 20px;
+        border: 2px solid #f03;
+        border-radius: 20px 10px 23px 21px;
+        margin: 10px;
+    }
+    footer .past 
+    {
+        border: 2px solid #d0de ;
+        padding: 20px;
+        margin: 10px;
+        border-radius: 20px 10px 23px 21px;
+    }
